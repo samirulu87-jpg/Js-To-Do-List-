@@ -1,0 +1,23 @@
+body {
+  background-color: #4c7c55;
+}
+
+.box {
+  background-color: #1b071e;
+}
+
+.mb-4 {
+  color: pink
+}
+
+#add-task-btn {
+  background-color: #4e4074;
+}
+
+#save-todo-btn {
+  background-color: #4e4074;
+}
+
+#text {
+  color: #1b071e;
+}
