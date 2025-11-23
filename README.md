@@ -1,5 +1,5 @@
 This includes a site that has a working To Do list, you can add, delete or edit different items on the list. All of this is coded in Java Script. 
-link: 
+link: https://samirulu87-jpg.github.io/Js-To-Do-List-/
 
       script.js 
       let todoArray = [];
